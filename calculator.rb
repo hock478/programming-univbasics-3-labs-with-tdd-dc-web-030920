@@ -14,4 +14,7 @@ def calculatorProdcut(first_number, second_number)
   puts product
 end
 
-def calculatorSubtract(first)
+def calculatorDifference(first_number,second_number)
+  difference = first_number - second_number
+  puts difference
+end
