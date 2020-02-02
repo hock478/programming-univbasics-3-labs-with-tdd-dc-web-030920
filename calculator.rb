@@ -1,4 +1,6 @@
 # Add your variables here
+first_number = 1
+
 def calculatorSum(first_number, second_number)
   sum = first_number + second_number
   puts sum
